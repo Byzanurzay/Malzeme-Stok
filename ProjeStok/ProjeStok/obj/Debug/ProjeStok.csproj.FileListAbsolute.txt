@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ProjeStok\ProjeStok\bin\Debug\ProjeStok.exe.config
+C:\Users\User\source\repos\ProjeStok\ProjeStok\bin\Debug\ProjeStok.exe
+C:\Users\User\source\repos\ProjeStok\ProjeStok\bin\Debug\ProjeStok.pdb
+C:\Users\User\source\repos\ProjeStok\ProjeStok\obj\Debug\ProjeStok.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjeStok\ProjeStok\obj\Debug\ProjeStok.Form1.resources
+C:\Users\User\source\repos\ProjeStok\ProjeStok\obj\Debug\ProjeStok.Properties.Resources.resources
+C:\Users\User\source\repos\ProjeStok\ProjeStok\obj\Debug\ProjeStok.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjeStok\ProjeStok\obj\Debug\ProjeStok.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjeStok\ProjeStok\obj\Debug\ProjeStok.exe
+C:\Users\User\source\repos\ProjeStok\ProjeStok\obj\Debug\ProjeStok.pdb
+C:\Users\User\source\repos\ProjeStok\ProjeStok\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\ProjeStok\ProjeStok\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\source\repos\ProjeStok\ProjeStok\obj\Debug\ProjeStok.csproj.Up2Date
